@@ -9,9 +9,9 @@ export default {
         email,
         firstName,
         lastName,
-        bio,
+        bio
       });
       return user;
-    },
-  },
+    }
+  }
 };
